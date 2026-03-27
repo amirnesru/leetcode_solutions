@@ -22,4 +22,16 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->

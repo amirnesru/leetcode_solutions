@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
 | [2469-convert-the-temperature](https://github.com/amirnesru/leetcode_solutions/tree/master/2469-convert-the-temperature) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

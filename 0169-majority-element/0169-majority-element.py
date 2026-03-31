@@ -1,11 +1,10 @@
-
 from collections import Counter
+from typing import List
+
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        count=Counter(nums)
-        a=len(nums)/2
-        arr=[]
-        for i in count :
-            if count[i]>a:
-                arr.append(i)
-        return arr[0]
+        count = Counter(nums)
+        n = len(nums)
+        for num, freq in count.items():
+            if freq > n // 2:
+                return num

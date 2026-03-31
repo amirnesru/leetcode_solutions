@@ -10,6 +10,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -31,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers

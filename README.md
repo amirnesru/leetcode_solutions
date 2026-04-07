@@ -16,6 +16,7 @@
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## String
@@ -45,11 +46,13 @@
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
@@ -59,6 +62,7 @@
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Simulation
 |  |
@@ -90,6 +94,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |

@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 ## Queue
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
@@ -88,4 +90,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

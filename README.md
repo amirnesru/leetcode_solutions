@@ -45,10 +45,12 @@
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -61,6 +63,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
+| [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
 |  |
 | ------- |

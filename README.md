@@ -47,6 +47,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
 | [0057-insert-interval](https://github.com/amirnesru/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -68,6 +70,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |

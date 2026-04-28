@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [2469-convert-the-temperature](https://github.com/amirnesru/leetcode_solutions/tree/master/2469-convert-the-temperature) |
@@ -52,6 +53,7 @@
 | [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/amirnesru/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -135,5 +137,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->

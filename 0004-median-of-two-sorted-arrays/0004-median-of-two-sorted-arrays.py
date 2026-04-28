@@ -6,20 +6,12 @@ class Solution:
         arr=[]
         xx=0
         yy=0
-        for i in range (x//2+1):
-            if xx<num1 and yy<num2 :
-                if nums1[xx] < nums2[yy]:
-                    arr.append(nums1[xx])
-                    xx+=1
-                else :
-                    arr.append(nums2[yy])
-                    yy+=1
-            else :
-                if  xx<num1 :
-                    arr.append(nums1[xx])
-                    xx+=1
-                else:
-                    arr.append(nums2[yy])
-                    yy+=1
+        for _ in range(x//2 + 1):
+            if yy == num2 or (xx < num1 and nums1[xx] < nums2[yy]):
+                arr.append(nums1[xx])
+                xx += 1
+            else:
+                arr.append(nums2[yy])
+                yy += 1
                     
         return (arr[-1]+arr[-2])/2 if x%2==0 else arr[-1]

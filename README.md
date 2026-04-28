@@ -60,6 +60,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -131,4 +132,8 @@
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->

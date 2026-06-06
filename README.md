@@ -53,6 +53,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0344-reverse-string) |

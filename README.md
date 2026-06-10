@@ -1,3 +1,20 @@
+# LeetCode Solutions
+
+This repository contains my solutions to LeetCode problems as part of my journey to improve my problem-solving and programming skills.
+
+I use LeetCode to practice algorithms, data structures, and coding patterns while building a stronger foundation in software engineering.
+
+My goal is not only to solve problems but also to understand different approaches, learn from mistakes, and become a better developer over time.
+
+As I continue learning, I will keep adding new solutions and revisiting old ones to improve my understanding.
+
+## Author
+
+Amir Nesru
+
+Software Engineering Student | Continuous Learner
+
+
 # leetcode_solutions
 <!---LeetCode Topics Start-->
 # LeetCode Topics

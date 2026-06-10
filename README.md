@@ -26,6 +26,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/amirnesru/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [0680-valid-palindrome-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/amirnesru/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
 |  |
 | ------- |

@@ -81,6 +81,7 @@ Software Engineering Student | Continuous Learner
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/amirnesru/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/amirnesru/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
@@ -163,6 +164,7 @@ Software Engineering Student | Continuous Learner
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/amirnesru/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |

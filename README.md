@@ -84,6 +84,7 @@ Software Engineering Student | Continuous Learner
 | [0035-search-insert-position](https://github.com/amirnesru/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0057-insert-interval](https://github.com/amirnesru/leetcode_solutions/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
@@ -108,6 +109,7 @@ Software Engineering Student | Continuous Learner
 | [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/amirnesru/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0344-reverse-string) |
@@ -122,6 +124,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |

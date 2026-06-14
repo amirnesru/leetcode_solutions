@@ -96,6 +96,7 @@ Software Engineering Student | Continuous Learner
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +120,7 @@ Software Engineering Student | Continuous Learner
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0680-valid-palindrome-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -143,6 +145,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
+| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Number Theory
@@ -180,6 +183,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 ## Trie
 |  |
 | ------- |
@@ -193,6 +197,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Greedy
 |  |

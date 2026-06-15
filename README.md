@@ -95,6 +95,7 @@ Software Engineering Student | Continuous Learner
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
@@ -199,6 +200,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -206,4 +208,12 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->

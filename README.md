@@ -33,6 +33,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -84,6 +85,7 @@ Software Engineering Student | Continuous Learner
 | [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/amirnesru/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/amirnesru/leetcode_solutions/tree/master/0057-insert-interval) |
@@ -200,6 +202,7 @@ Software Engineering Student | Continuous Learner
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |

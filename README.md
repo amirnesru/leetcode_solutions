@@ -110,6 +110,7 @@ Software Engineering Student | Continuous Learner
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amirnesru/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/amirnesru/leetcode_solutions/tree/master/3895-count-digit-appearances) |
 ## Two Pointers
@@ -146,6 +147,7 @@ Software Engineering Student | Continuous Learner
 | [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Simulation
 |  |
 | ------- |
@@ -208,6 +210,7 @@ Software Engineering Student | Continuous Learner
 | [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
 ## Greedy
 |  |
 | ------- |

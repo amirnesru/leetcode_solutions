@@ -2,15 +2,12 @@ class Solution:
     def countPairs(self, nums: List[int], target: int) -> int:
         left = 0
         count = 0
-        right = left+1
-        while left < len(nums)-1 :
-            
-            if nums[left]+nums[right] < target :
-                count+=1
-                right+=1
+        right = len(nums)-1 
+        nums.sort()
+        while left < right:
+            if nums[left]+nums[right] >= target :
+                right-=1
             else :
-                right+=1    
-            if  right == len(nums):
-                left+=1
-                right=left+1 
+                count+=right-left
+                left+=1  
         return count          

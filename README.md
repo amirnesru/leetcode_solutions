@@ -23,6 +23,7 @@ Software Engineering Student | Continuous Learner
 | ------- |
 | [0009-palindrome-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [2469-convert-the-temperature](https://github.com/amirnesru/leetcode_solutions/tree/master/2469-convert-the-temperature) |
@@ -36,6 +37,7 @@ Software Engineering Student | Continuous Learner
 | [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -132,6 +134,7 @@ Software Engineering Student | Continuous Learner
 | [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amirnesru/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |

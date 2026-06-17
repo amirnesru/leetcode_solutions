@@ -57,6 +57,7 @@ Software Engineering Student | Continuous Learner
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amirnesru/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -137,6 +138,7 @@ Software Engineering Student | Continuous Learner
 | [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/amirnesru/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/amirnesru/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |

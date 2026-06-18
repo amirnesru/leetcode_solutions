@@ -46,6 +46,7 @@ Software Engineering Student | Continuous Learner
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -80,6 +81,7 @@ Software Engineering Student | Continuous Learner
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Array
@@ -108,6 +110,7 @@ Software Engineering Student | Continuous Learner
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
+| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
@@ -168,6 +171,7 @@ Software Engineering Student | Continuous Learner
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -231,6 +235,7 @@ Software Engineering Student | Continuous Learner
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix
 |  |

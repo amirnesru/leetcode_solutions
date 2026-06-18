@@ -66,6 +66,7 @@ Software Engineering Student | Continuous Learner
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/3110-score-of-a-string) |
+| [3614-process-string-with-special-operations-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/amirnesru/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Queue
 |  |
@@ -181,6 +182,7 @@ Software Engineering Student | Continuous Learner
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amirnesru/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
+| [3614-process-string-with-special-operations-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
 ## Number Theory
 |  |
 | ------- |

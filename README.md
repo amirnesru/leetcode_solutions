@@ -34,6 +34,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
@@ -52,6 +53,7 @@ Software Engineering Student | Continuous Learner
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
@@ -227,6 +229,7 @@ Software Engineering Student | Continuous Learner
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Matrix

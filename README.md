@@ -28,6 +28,7 @@ Software Engineering Student | Continuous Learner
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/amirnesru/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/amirnesru/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2469-convert-the-temperature](https://github.com/amirnesru/leetcode_solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/amirnesru/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amirnesru/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -126,6 +127,7 @@ Software Engineering Student | Continuous Learner
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amirnesru/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
@@ -159,6 +161,7 @@ Software Engineering Student | Continuous Learner
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1861-rotating-the-box](https://github.com/amirnesru/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/amirnesru/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amirnesru/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -243,6 +246,7 @@ Software Engineering Student | Continuous Learner
 | [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/amirnesru/leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Matrix
 |  |
@@ -275,6 +279,7 @@ Software Engineering Student | Continuous Learner
 | [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 ## Stack
 |  |
 | ------- |

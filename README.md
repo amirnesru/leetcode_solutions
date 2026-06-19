@@ -43,6 +43,7 @@ Software Engineering Student | Continuous Learner
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -107,6 +108,7 @@ Software Engineering Student | Continuous Learner
 | [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amirnesru/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
@@ -242,6 +244,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |

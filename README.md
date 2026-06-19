@@ -129,6 +129,7 @@ Software Engineering Student | Continuous Learner
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/amirnesru/leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amirnesru/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amirnesru/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3895-count-digit-appearances](https://github.com/amirnesru/leetcode_solutions/tree/master/3895-count-digit-appearances) |
@@ -240,6 +241,7 @@ Software Engineering Student | Continuous Learner
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/amirnesru/leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Matrix
 |  |
 | ------- |

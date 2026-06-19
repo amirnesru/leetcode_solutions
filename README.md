@@ -125,6 +125,7 @@ Software Engineering Student | Continuous Learner
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1861-rotating-the-box](https://github.com/amirnesru/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -297,4 +298,8 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->

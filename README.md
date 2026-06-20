@@ -28,6 +28,7 @@ Software Engineering Student | Continuous Learner
 | [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/amirnesru/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1492-the-kth-factor-of-n](https://github.com/amirnesru/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
+| [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2469-convert-the-temperature](https://github.com/amirnesru/leetcode_solutions/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/amirnesru/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -127,6 +128,7 @@ Software Engineering Student | Continuous Learner
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/amirnesru/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -186,6 +188,7 @@ Software Engineering Student | Continuous Learner
 | [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |

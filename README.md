@@ -131,6 +131,7 @@ Software Engineering Student | Continuous Learner
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1861-rotating-the-box](https://github.com/amirnesru/leetcode_solutions/tree/master/1861-rotating-the-box) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -191,6 +192,7 @@ Software Engineering Student | Continuous Learner
 | [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -277,6 +279,7 @@ Software Engineering Student | Continuous Learner
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Depth-First Search
 |  |
@@ -312,4 +315,8 @@ Software Engineering Student | Continuous Learner
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->

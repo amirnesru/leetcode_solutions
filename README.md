@@ -126,6 +126,7 @@ Software Engineering Student | Continuous Learner
 | [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
 | [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/amirnesru/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -321,6 +322,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/amirnesru/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 ## Counting Sort
 |  |

@@ -67,6 +67,7 @@ Software Engineering Student | Continuous Learner
 | [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/amirnesru/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/amirnesru/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/amirnesru/leetcode_solutions/tree/master/0076-minimum-window-substring) |
@@ -310,6 +311,7 @@ Software Engineering Student | Continuous Learner
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amirnesru/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack

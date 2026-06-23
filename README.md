@@ -118,6 +118,7 @@ Software Engineering Student | Continuous Learner
 | [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0057-insert-interval](https://github.com/amirnesru/leetcode_solutions/tree/master/0057-insert-interval) |
 | [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/amirnesru/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
@@ -305,6 +306,7 @@ Software Engineering Student | Continuous Learner
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/amirnesru/leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |

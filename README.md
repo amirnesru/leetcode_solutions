@@ -1,344 +1,69 @@
-# LeetCode Solutions
+# LeetCode Solutions 🎯
 
-This repository contains my solutions to LeetCode problems as part of my journey to improve my problem-solving and programming skills.
+A collection of LeetCode problem solutions written in Python. This repository documents my journey through various coding problems, from easy to hard difficulty levels.
 
-I use LeetCode to practice algorithms, data structures, and coding patterns while building a stronger foundation in software engineering.
+## 📚 Purpose
 
-My goal is not only to solve problems but also to understand different approaches, learn from mistakes, and become a better developer over time.
+This repository contains:
+- **Problem Solutions**: Well-documented solutions to LeetCode problems
+- **Multiple Approaches**: Different strategies and optimizations for solving problems
+- **Learning Progress**: Track my growth as a problem solver
+- **Interview Preparation**: Curated solutions for technical interview prep
 
-As I continue learning, I will keep adding new solutions and revisiting old ones to improve my understanding.
+## 🛠️ Technologies Used
 
-## Author
+- **Language**: Python 3.x
+- **Topics**: Data Structures, Algorithms, Dynamic Programming, Graph Theory, and more
 
-Amir Nesru
+## 📊 Statistics
 
-Software Engineering Student | Continuous Learner
+- **Total Problems**: 90+ problems solved
+- **Difficulty Levels**: Easy → Medium → Hard
+- **Last Updated**: Actively maintained (Last push: June 24, 2026)
 
+## 🚀 How to Use
 
-# leetcode_solutions
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0009-palindrome-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0009-palindrome-number) |
-| [0013-roman-to-integer](https://github.com/amirnesru/leetcode_solutions/tree/master/0013-roman-to-integer) |
-| [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
-| [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
-| [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
-| [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
-| [1344-angle-between-hands-of-a-clock](https://github.com/amirnesru/leetcode_solutions/tree/master/1344-angle-between-hands-of-a-clock) |
-| [1492-the-kth-factor-of-n](https://github.com/amirnesru/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
-| [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
-| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
-| [2469-convert-the-temperature](https://github.com/amirnesru/leetcode_solutions/tree/master/2469-convert-the-temperature) |
-| [2769-find-the-maximum-achievable-number](https://github.com/amirnesru/leetcode_solutions/tree/master/2769-find-the-maximum-achievable-number) |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amirnesru/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-| [3895-count-digit-appearances](https://github.com/amirnesru/leetcode_solutions/tree/master/3895-count-digit-appearances) |
-## Hash Table
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
-| [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/amirnesru/leetcode_solutions/tree/master/0013-roman-to-integer) |
-| [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
-| [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
-| [0076-minimum-window-substring](https://github.com/amirnesru/leetcode_solutions/tree/master/0076-minimum-window-substring) |
-| [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
-| [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
-| [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
-| [0219-contains-duplicate-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
-| [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
-| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
-| [0763-partition-labels](https://github.com/amirnesru/leetcode_solutions/tree/master/0763-partition-labels) |
-| [1189-maximum-number-of-balloons](https://github.com/amirnesru/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
-| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
-| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-| [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
-| [3760-maximum-substrings-with-distinct-start](https://github.com/amirnesru/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
-## String
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0013-roman-to-integer](https://github.com/amirnesru/leetcode_solutions/tree/master/0013-roman-to-integer) |
-| [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
-| [0020-valid-parentheses](https://github.com/amirnesru/leetcode_solutions/tree/master/0020-valid-parentheses) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
-| [0076-minimum-window-substring](https://github.com/amirnesru/leetcode_solutions/tree/master/0076-minimum-window-substring) |
-| [0125-valid-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0125-valid-palindrome) |
-| [0344-reverse-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0344-reverse-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
-| [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/amirnesru/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
-| [0680-valid-palindrome-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
-| [0763-partition-labels](https://github.com/amirnesru/leetcode_solutions/tree/master/0763-partition-labels) |
-| [1189-maximum-number-of-balloons](https://github.com/amirnesru/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
-| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
-| [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
-| [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
-| [3110-score-of-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/3110-score-of-a-string) |
-| [3614-process-string-with-special-operations-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
-| [3760-maximum-substrings-with-distinct-start](https://github.com/amirnesru/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
-## Queue
-|  |
-| ------- |
-| [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
-## Counting
-|  |
-| ------- |
-| [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-| [0387-first-unique-character-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
-| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
-| [1189-maximum-number-of-balloons](https://github.com/amirnesru/leetcode_solutions/tree/master/1189-maximum-number-of-balloons) |
-| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amirnesru/leetcode_solutions/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
-| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0001-two-sum) |
-| [0004-median-of-two-sorted-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
-| [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
-| [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0018-4sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
-| [0033-search-in-rotated-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| [0035-search-insert-position](https://github.com/amirnesru/leetcode_solutions/tree/master/0035-search-insert-position) |
-| [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
-| [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
-| [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
-| [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
-| [0057-insert-interval](https://github.com/amirnesru/leetcode_solutions/tree/master/0057-insert-interval) |
-| [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
-| [0118-pascals-triangle](https://github.com/amirnesru/leetcode_solutions/tree/master/0118-pascals-triangle) |
-| [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
-| [0209-minimum-size-subarray-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
-| [0219-contains-duplicate-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
-| [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
-| [0283-move-zeroes](https://github.com/amirnesru/leetcode_solutions/tree/master/0283-move-zeroes) |
-| [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
-| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
-| [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
-| [0724-find-pivot-index](https://github.com/amirnesru/leetcode_solutions/tree/master/0724-find-pivot-index) |
-| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
-| [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
-| [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
-| [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
-| [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
-| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
-| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
-| [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
-| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
-| [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
-| [1861-rotating-the-box](https://github.com/amirnesru/leetcode_solutions/tree/master/1861-rotating-the-box) |
-| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
-| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
-| [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
-| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
-| [2161-partition-array-according-to-given-pivot](https://github.com/amirnesru/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
-| [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
-| [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
-| [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
-| [2760-longest-even-odd-subarray-with-threshold](https://github.com/amirnesru/leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amirnesru/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/amirnesru/leetcode_solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
-| [3895-count-digit-appearances](https://github.com/amirnesru/leetcode_solutions/tree/master/3895-count-digit-appearances) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0018-4sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0027-remove-element) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
-| [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
-| [0125-valid-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0125-valid-palindrome) |
-| [0202-happy-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0202-happy-number) |
-| [0283-move-zeroes](https://github.com/amirnesru/leetcode_solutions/tree/master/0283-move-zeroes) |
-| [0344-reverse-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0344-reverse-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
-| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0557-reverse-words-in-a-string-iii](https://github.com/amirnesru/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
-| [0680-valid-palindrome-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
-| [0763-partition-labels](https://github.com/amirnesru/leetcode_solutions/tree/master/0763-partition-labels) |
-| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
-| [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
-| [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
-| [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
-| [1861-rotating-the-box](https://github.com/amirnesru/leetcode_solutions/tree/master/1861-rotating-the-box) |
-| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
-| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
-| [2161-partition-array-according-to-given-pivot](https://github.com/amirnesru/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
-| [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amirnesru/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0015-3sum) |
-| [0018-4sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0018-4sum) |
-| [0049-group-anagrams](https://github.com/amirnesru/leetcode_solutions/tree/master/0049-group-anagrams) |
-| [0075-sort-colors](https://github.com/amirnesru/leetcode_solutions/tree/master/0075-sort-colors) |
-| [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
-| [0217-contains-duplicate](https://github.com/amirnesru/leetcode_solutions/tree/master/0217-contains-duplicate) |
-| [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
-| [0905-sort-array-by-parity](https://github.com/amirnesru/leetcode_solutions/tree/master/0905-sort-array-by-parity) |
-| [0922-sort-array-by-parity-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
-| [0977-squares-of-a-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
-| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
-| [1840-maximum-building-height](https://github.com/amirnesru/leetcode_solutions/tree/master/1840-maximum-building-height) |
-| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
-| [2418-sort-the-people](https://github.com/amirnesru/leetcode_solutions/tree/master/2418-sort-the-people) |
-| [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amirnesru/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
-## Simulation
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
-| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
-| [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
-| [2011-final-value-of-variable-after-performing-operations](https://github.com/amirnesru/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
-| [2161-partition-array-according-to-given-pivot](https://github.com/amirnesru/leetcode_solutions/tree/master/2161-partition-array-according-to-given-pivot) |
-| [2460-apply-operations-to-an-array](https://github.com/amirnesru/leetcode_solutions/tree/master/2460-apply-operations-to-an-array) |
-| [3614-process-string-with-special-operations-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/3614-process-string-with-special-operations-ii) |
-## Number Theory
-|  |
-| ------- |
-| [0258-add-digits](https://github.com/amirnesru/leetcode_solutions/tree/master/0258-add-digits) |
-| [1492-the-kth-factor-of-n](https://github.com/amirnesru/leetcode_solutions/tree/master/1492-the-kth-factor-of-n) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
-| [0169-majority-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0169-majority-element) |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-## Bucket Sort
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-## Quickselect
-|  |
-| ------- |
-| [0347-top-k-frequent-elements](https://github.com/amirnesru/leetcode_solutions/tree/master/0347-top-k-frequent-elements) |
-## Binary Search
-|  |
-| ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0004-median-of-two-sorted-arrays) |
-| [0033-search-in-rotated-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0033-search-in-rotated-sorted-array) |
-| [0035-search-insert-position](https://github.com/amirnesru/leetcode_solutions/tree/master/0035-search-insert-position) |
-| [0209-minimum-size-subarray-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
-| [0349-intersection-of-two-arrays](https://github.com/amirnesru/leetcode_solutions/tree/master/0349-intersection-of-two-arrays) |
-| [0350-intersection-of-two-arrays-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0350-intersection-of-two-arrays-ii) |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/amirnesru/leetcode_solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0268-missing-number](https://github.com/amirnesru/leetcode_solutions/tree/master/0268-missing-number) |
-| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
-## Trie
-|  |
-| ------- |
-| [0014-longest-common-prefix](https://github.com/amirnesru/leetcode_solutions/tree/master/0014-longest-common-prefix) |
-## Sliding Window
-|  |
-| ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/amirnesru/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
-| [0076-minimum-window-substring](https://github.com/amirnesru/leetcode_solutions/tree/master/0076-minimum-window-substring) |
-| [0209-minimum-size-subarray-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0219-contains-duplicate-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
-| [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
-| [0594-longest-harmonious-subsequence](https://github.com/amirnesru/leetcode_solutions/tree/master/0594-longest-harmonious-subsequence) |
-| [0643-maximum-average-subarray-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
-| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
-| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
-| [2760-longest-even-odd-subarray-with-threshold](https://github.com/amirnesru/leetcode_solutions/tree/master/2760-longest-even-odd-subarray-with-threshold) |
-## Matrix
-|  |
-| ------- |
-| [0036-valid-sudoku](https://github.com/amirnesru/leetcode_solutions/tree/master/0036-valid-sudoku) |
-| [0048-rotate-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0048-rotate-image) |
-| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
-| [0832-flipping-an-image](https://github.com/amirnesru/leetcode_solutions/tree/master/0832-flipping-an-image) |
-| [0867-transpose-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/0867-transpose-matrix) |
-| [1582-special-positions-in-a-binary-matrix](https://github.com/amirnesru/leetcode_solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
-| [1861-rotating-the-box](https://github.com/amirnesru/leetcode_solutions/tree/master/1861-rotating-the-box) |
-| [2545-sort-the-students-by-their-kth-score](https://github.com/amirnesru/leetcode_solutions/tree/master/2545-sort-the-students-by-their-kth-score) |
-## Greedy
-|  |
-| ------- |
-| [0680-valid-palindrome-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/0680-valid-palindrome-ii) |
-| [0763-partition-labels](https://github.com/amirnesru/leetcode_solutions/tree/master/0763-partition-labels) |
-| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
-| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
-| [1877-minimize-maximum-pair-sum-in-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
-## Depth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
-## Breadth-First Search
-|  |
-| ------- |
-| [0463-island-perimeter](https://github.com/amirnesru/leetcode_solutions/tree/master/0463-island-perimeter) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
-| [0118-pascals-triangle](https://github.com/amirnesru/leetcode_solutions/tree/master/0118-pascals-triangle) |
-| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
-| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
-| [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
-## Stack
-|  |
-| ------- |
-| [0020-valid-parentheses](https://github.com/amirnesru/leetcode_solutions/tree/master/0020-valid-parentheses) |
-| [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
-| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0042-trapping-rain-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0042-trapping-rain-water) |
-| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Prefix Sum
-|  |
-| ------- |
-| [0209-minimum-size-subarray-sum](https://github.com/amirnesru/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
-| [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
-| [0724-find-pivot-index](https://github.com/amirnesru/leetcode_solutions/tree/master/0724-find-pivot-index) |
-| [1732-find-the-highest-altitude](https://github.com/amirnesru/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
-## Counting Sort
-|  |
-| ------- |
-| [1833-maximum-ice-cream-bars](https://github.com/amirnesru/leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
-## Design
-|  |
-| ------- |
-| [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
-<!---LeetCode Topics End-->
+1. Browse problems by difficulty or topic
+2. Each solution includes:
+   - Problem description (links to LeetCode)
+   - Solution approach explanation
+   - Time and space complexity analysis
+   - Alternative solutions when applicable
+
+## 📝 Problem Categories
+
+- Arrays & Hashing
+- Two Pointers
+- Stack & Queue
+- Binary Search
+- Linked Lists
+- Trees & Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Bit Manipulation
+- And more...
+
+## 🎓 Key Learnings
+
+Through solving these problems, I'm strengthening:
+- Problem-solving patterns recognition
+- Algorithm optimization techniques
+- Code efficiency and readability
+- Interview confidence
+
+## 📈 Progress Tracking
+
+Check the commit history to see the progression of solutions and improvements.
+
+## 💡 Contributing
+
+See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on suggesting improvements and alternative approaches.
+
+## 📄 License
+
+MIT License - Feel free to use these solutions for learning purposes.
+
+---
+
+**Last Updated**: June 24, 2026  
+**Maintained By**: @amirnesru

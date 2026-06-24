@@ -55,10 +55,7 @@ Through solving these problems, I'm strengthening:
 
 Check the commit history to see the progression of solutions and improvements.
 
-## 💡 Contributing
-
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on suggesting improvements and alternative approaches.
-
+#
 ## 📄 License
 
 MIT License - Feel free to use these solutions for learning purposes.

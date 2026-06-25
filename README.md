@@ -64,3 +64,11 @@ MIT License - Feel free to use these solutions for learning purposes.
 
 **Last Updated**: June 24, 2026  
 **Maintained By**: @amirnesru
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/amirnesru/leetcode_solutions/tree/master/0058-length-of-last-word) |
+<!---LeetCode Topics End-->

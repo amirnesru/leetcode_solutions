@@ -71,4 +71,12 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/amirnesru/leetcode_solutions/tree/master/0058-length-of-last-word) |
+## Array
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->

@@ -79,4 +79,12 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/amirnesru/leetcode_solutions/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/amirnesru/leetcode_solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->

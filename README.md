@@ -74,6 +74,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0278-first-bad-version](https://github.com/amirnesru/leetcode_solutions/tree/master/0278-first-bad-version) |
 ## Interactive
 |  |

@@ -78,6 +78,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0162-find-peak-element) |
+| [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -100,5 +101,14 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

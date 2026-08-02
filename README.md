@@ -80,6 +80,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0162-find-peak-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -92,6 +93,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/amirnesru/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/amirnesru/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 ## Interactive
 |  |
 | ------- |
@@ -105,6 +107,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 ## Greedy
 |  |
@@ -114,4 +117,5 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 <!---LeetCode Topics End-->

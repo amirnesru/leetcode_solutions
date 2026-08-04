@@ -72,6 +72,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | ------- |
 | [0058-length-of-last-word](https://github.com/amirnesru/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Array
 |  |
 | ------- |
@@ -112,6 +113,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 ## Greedy
 |  |
 | ------- |
@@ -133,4 +135,20 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+## Hash Table
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+## Backtracking
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+## Counting
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+## Enumeration
+|  |
+| ------- |
+| [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 <!---LeetCode Topics End-->

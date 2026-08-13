@@ -84,6 +84,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [3206-alternating-groups-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -156,4 +157,9 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [3206-alternating-groups-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3206-alternating-groups-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->

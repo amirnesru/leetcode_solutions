@@ -73,6 +73,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0058-length-of-last-word](https://github.com/amirnesru/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/amirnesru/leetcode_solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Array
@@ -167,6 +168,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Sliding Window
 |  |
 | ------- |
+| [1234-replace-the-substring-for-balanced-string](https://github.com/amirnesru/leetcode_solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3206-alternating-groups-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |

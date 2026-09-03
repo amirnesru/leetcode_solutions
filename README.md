@@ -88,6 +88,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3206-alternating-groups-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amirnesru/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -106,6 +107,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0367-valid-perfect-square](https://github.com/amirnesru/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive
 |  |
 | ------- |
@@ -170,12 +172,14 @@ MIT License - Feel free to use these solutions for learning purposes.
 | ------- |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/amirnesru/leetcode_solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3206-alternating-groups-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |

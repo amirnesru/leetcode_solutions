@@ -86,6 +86,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -142,11 +143,13 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 ## Cartesian Tree
 |  |

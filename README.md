@@ -83,6 +83,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
@@ -186,6 +187,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Bit Manipulation
@@ -208,4 +210,8 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

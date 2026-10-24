@@ -89,6 +89,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [1480-running-sum-of-1d-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -190,6 +191,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |

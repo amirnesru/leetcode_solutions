@@ -95,6 +95,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2381-shifting-letters-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/amirnesru/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [3206-alternating-groups-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3206-alternating-groups-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amirnesru/leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -132,6 +133,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/amirnesru/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +145,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | ------- |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/amirnesru/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -165,6 +168,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0409-longest-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/amirnesru/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Backtracking
 |  |
 | ------- |

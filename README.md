@@ -89,6 +89,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1480-running-sum-of-1d-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -130,6 +131,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
+| [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -139,12 +141,14 @@ MIT License - Feel free to use these solutions for learning purposes.
 | ------- |
 | [0409-longest-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Sorting
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
+| [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/amirnesru/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
@@ -223,4 +227,8 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->

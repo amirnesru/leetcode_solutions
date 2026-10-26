@@ -80,6 +80,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0162-find-peak-element) |
@@ -128,6 +129,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
@@ -139,6 +141,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |

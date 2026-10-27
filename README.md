@@ -115,6 +115,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0278-first-bad-version](https://github.com/amirnesru/leetcode_solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/amirnesru/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive
@@ -125,6 +126,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0367-valid-perfect-square](https://github.com/amirnesru/leetcode_solutions/tree/master/0367-valid-perfect-square) |
+| [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
@@ -133,6 +135,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
+| [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |

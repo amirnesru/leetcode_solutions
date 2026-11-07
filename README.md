@@ -113,6 +113,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/amirnesru/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/amirnesru/leetcode_solutions/tree/master/0278-first-bad-version) |
@@ -129,6 +130,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amirnesru/leetcode_solutions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/amirnesru/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -259,4 +261,8 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amirnesru/leetcode_solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amirnesru/leetcode_solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

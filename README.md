@@ -90,6 +90,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+| [0704-binary-search](https://github.com/amirnesru/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amirnesru/leetcode_solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -118,6 +119,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0367-valid-perfect-square](https://github.com/amirnesru/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/amirnesru/leetcode_solutions/tree/master/0704-binary-search) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive

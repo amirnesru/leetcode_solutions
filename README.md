@@ -93,6 +93,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0704-binary-search](https://github.com/amirnesru/leetcode_solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/amirnesru/leetcode_solutions/tree/master/0881-boats-to-save-people) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amirnesru/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amirnesru/leetcode_solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -121,6 +122,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/amirnesru/leetcode_solutions/tree/master/0704-binary-search) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/amirnesru/leetcode_solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
 ## Interactive

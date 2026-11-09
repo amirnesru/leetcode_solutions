@@ -73,6 +73,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0058-length-of-last-word](https://github.com/amirnesru/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/amirnesru/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0409-longest-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/amirnesru/leetcode_solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
@@ -188,6 +189,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/amirnesru/leetcode_solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/amirnesru/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -207,6 +209,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/amirnesru/leetcode_solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amirnesru/leetcode_solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |

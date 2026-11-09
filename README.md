@@ -86,6 +86,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amirnesru/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/amirnesru/leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
@@ -133,6 +134,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amirnesru/leetcode_solutions/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/amirnesru/leetcode_solutions/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -141,6 +143,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | ------- |
 | [0011-container-with-most-water](https://github.com/amirnesru/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/amirnesru/leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/amirnesru/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/amirnesru/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/amirnesru/leetcode_solutions/tree/master/0475-heaters) |
 | [0633-sum-of-square-numbers](https://github.com/amirnesru/leetcode_solutions/tree/master/0633-sum-of-square-numbers) |

@@ -78,6 +78,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [1234-replace-the-substring-for-balanced-string](https://github.com/amirnesru/leetcode_solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2381-shifting-letters-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
+| [2390-removing-stars-from-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/amirnesru/leetcode_solutions/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Array
 |  |
@@ -175,6 +176,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
+| [2390-removing-stars-from-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -273,4 +275,8 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amirnesru/leetcode_solutions/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

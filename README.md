@@ -198,6 +198,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/amirnesru/leetcode_solutions/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/amirnesru/leetcode_solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Backtracking
 |  |
 | ------- |
@@ -207,6 +208,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | ------- |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/amirnesru/leetcode_solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Enumeration
 |  |
 | ------- |
@@ -254,6 +256,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/amirnesru/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/amirnesru/leetcode_solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Timsort
 |  |
 | ------- |
@@ -262,6 +265,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amirnesru/leetcode_solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/amirnesru/leetcode_solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -282,4 +286,8 @@ MIT License - Feel free to use these solutions for learning purposes.
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+## Data Stream
+|  |
+| ------- |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/amirnesru/leetcode_solutions/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->

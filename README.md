@@ -76,6 +76,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0438-find-all-anagrams-in-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/amirnesru/leetcode_solutions/tree/master/0917-reverse-only-letters) |
 | [1234-replace-the-substring-for-balanced-string](https://github.com/amirnesru/leetcode_solutions/tree/master/1234-replace-the-substring-for-balanced-string) |
+| [1598-crawler-log-folder](https://github.com/amirnesru/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [2014-longest-subsequence-repeated-k-times](https://github.com/amirnesru/leetcode_solutions/tree/master/2014-longest-subsequence-repeated-k-times) |
 | [2381-shifting-letters-ii](https://github.com/amirnesru/leetcode_solutions/tree/master/2381-shifting-letters-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -100,6 +101,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/amirnesru/leetcode_solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1480-running-sum-of-1d-array](https://github.com/amirnesru/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/amirnesru/leetcode_solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1598-crawler-log-folder](https://github.com/amirnesru/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2029-stone-game-ix](https://github.com/amirnesru/leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/amirnesru/leetcode_solutions/tree/master/2302-count-subarrays-with-score-less-than-k) |
@@ -175,6 +177,7 @@ MIT License - Feel free to use these solutions for learning purposes.
 | [0071-simplify-path](https://github.com/amirnesru/leetcode_solutions/tree/master/0071-simplify-path) |
 | [0496-next-greater-element-i](https://github.com/amirnesru/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/amirnesru/leetcode_solutions/tree/master/0739-daily-temperatures) |
+| [1598-crawler-log-folder](https://github.com/amirnesru/leetcode_solutions/tree/master/1598-crawler-log-folder) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/amirnesru/leetcode_solutions/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2390-removing-stars-from-a-string](https://github.com/amirnesru/leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
